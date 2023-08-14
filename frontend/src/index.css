@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #424242;
+  --secondary-color: #000;
+  --blue-color: #58a8b6;
+  --grey-color: #cacaca;
+}
+
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  background-color: var(--secondary-color);
+  color: var(--blue-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.base-card {
+  background: var(--primary-color);
+  border-radius: 15px;
+}

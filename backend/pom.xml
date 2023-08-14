@@ -12,7 +12,7 @@
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dssales</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dssales</name>
+	<name>dssales-desafio</name>
 	<description>Bootcamp Spring React DevSuperior</description>
 
 	<properties>
